@@ -1,3 +1,12 @@
 h1, h2 {
     text-align: center;
 }
+
+body {
+    background-image: url(https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
+}
+
+#increment-btn, #save-btn {
+    display: block;
+    margin: 10px auto;
+}
